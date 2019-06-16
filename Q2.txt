@@ -1,0 +1,3 @@
+2. Read the code below, choose the correct answer and explain the reason.
+Ans: c. "Your grace."
+此段代碼的message長度在1~39之間

@@ -1,0 +1,4 @@
+3. Read the code below, choose the correct answer and explain the reason.
+
+Ans:
+d. val array = Array(6) { 1000.0.pow( it ) }

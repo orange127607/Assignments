@@ -1,0 +1,29 @@
+1. Try the statements below in REPL. Please answer that there are correct or not and
+explain the reasons.
+
+a. val id = 9527
+正確 賦予id值
+
+b. var number : Int = 5.6
+錯誤 Int的值應為整數
+
+c. var title = "Hello Kotlin!"
+正確 賦予title值
+
+d. val content : String = null
+錯誤 String後要加? -> val content : String? = null
+
+e. val number : Double? = 556.6
+正確
+
+f. var list: List<String>? = listOf (null, null)
+錯誤 -> var list: List<Nothing?> = listOf (null, null)
+
+g. var list: List<String?>? = listOf ("Wayne", "Chen")
+正確
+
+h. list.size
+錯誤 -> list?.size
+
+i. list?.size
+正確
