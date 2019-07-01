@@ -1,0 +1,6 @@
+3. Read the code below, choose the correct answer and explain the reason.
+
+Ans:
+d. val array = Array(6) { 1000.0.pow( it ) }
+
+宣告與建立有6個元素的陣列,此為指數型的擴展函數
